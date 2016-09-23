@@ -1,8 +1,8 @@
-Name:
+Name: Rebecca Stankus
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes--had to update Android studio and re-sync
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes-- no problems.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
